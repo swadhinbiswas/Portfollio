@@ -42,11 +42,11 @@ export const Skills = () => {
                                 <h5>DATA ANALYSIS </h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>PYTHON</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>AI</h5>
                             </div>
                             <div className="item">
@@ -58,23 +58,23 @@ export const Skills = () => {
                                 <h5>C/C++</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter0} alt="Image" />
                                 <h5>SCALA</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>DATA SCIENCE </h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>JAVASCRIPT</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>SQL</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>BIG DATA </h5>
                             </div>
                             <div className="item">
